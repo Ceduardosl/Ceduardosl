@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
+#### My name is Carlos Eduardo Sousa Lima, but you can call me Eduardo Lima
+
+#### I am a PhD Student in Civil Engineering (Water Resources) at Hydraulic and Environmental Engineering Department (DEHA), Federal University of Ceará (UFC)
+
+#### I'm currently working with Anthropogenic changes in watersheds and their impacts on water resources. Several data science techniques are used for this, and i'm looking to collaborate on this area with my codes that are mainly applied to hydrological and climate data
+
+#### Pronouns: He/Him
 <!--
 **Ceduardosl/Ceduardosl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![snake gif](https://github.com/Ceduardosl/Ceduardosl/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Ceduardosl/Ceduardosl/blob/output/github-contribution-grid-snake.svg)
