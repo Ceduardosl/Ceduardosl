@@ -5,8 +5,6 @@
 #### ⚡ I am a PhD Student in Civil Engineering (Water Resources) at Hydraulic and Environmental Engineering Department (DEHA), Federal University of Ceará (UFC)
 
 #### 📖 I'm currently working with Anthropogenic changes in watersheds and their impacts on water resources. Several data science techniques are used for this, and i'm looking to collaborate on this area with my codes that are mainly applied to hydrological and climate data
-
-#### Pronouns: He/Him
 <!--
 **Ceduardosl/Ceduardosl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
