@@ -8,7 +8,8 @@
 - hydrological non-stationarity,
 - hydrological extremes,
 - statistical hydrology
-
+- Hydrological Modeling
+  
 #### 🏢 Affiliation:
 - Researcher at the Water Resources Laboratory – Federal University of Ceará (UFC)
 
